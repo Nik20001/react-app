@@ -1,5 +1,5 @@
 {
-  "name": "tap_calc_client",
+  "name": "calculator",
   "version": "1.0.0",
   "description": "client for the calculator app ",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "calculator",
     "react"
   ],
-  "author": "Skeletor48",
+  "author": "zuhayr",
   "license": "ISC",
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.7.4",
