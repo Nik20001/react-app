@@ -11,7 +11,7 @@
     "calculator",
     "nodeJs"
   ],
-  "author": "Skeletor48",
+  "author": "zuhayr",
   "license": "ISC",
   "dependencies": {
     "chai-json": "^1.0.0",
